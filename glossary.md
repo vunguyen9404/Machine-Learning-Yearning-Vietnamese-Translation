@@ -18,7 +18,7 @@ Nếu một từ chưa có trong bảng thuật ngữ dưới đây, các bạn 
 |-----------------------------------|----------------------------------------------------------------|------------------------------------------------------------|
 | accuracy                          | độ chính xác                                                   |                                                            |
 | benchmark                         | đánh giá xếp hạng                                              | [#87](http://bit.ly/2BvfPYA)                               |
-| bias                              |                                                                |                                                            |
+| bias                              | độ lệch (trong bias và variance)                               |                                                            |
 | big data                          | big data                                                       |                                                            |
 | Blackbox dev set                  |                                                                |                                                            |
 | classifier                        | bộ phân loại                                                   |                                                            |
@@ -73,4 +73,4 @@ Nếu một từ chưa có trong bảng thuật ngữ dưới đây, các bạn 
 | true positive                     | dương tính thật                                                |                                                            |
 | tune parameters                   |                                                                |                                                            |
 | underfit                          | underfit                                                       | [#87](http://bit.ly/2BvfPYA)                               |
-| variance                          |                                                                |                                                            |
+| variance                          | phương sai                                                     |                                                            |
